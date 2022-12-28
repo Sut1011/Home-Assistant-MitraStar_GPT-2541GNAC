@@ -25,7 +25,6 @@ device_tracker:
     consider_home: 200
     new_device_defaults:
       track_new_devices: False
-      hide_if_away: False
 
 ```
 
