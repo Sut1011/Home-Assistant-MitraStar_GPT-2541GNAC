@@ -1,0 +1,1 @@
+"""MitraStar GPT-2541GNAC"""
